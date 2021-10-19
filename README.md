@@ -1,4 +1,4 @@
-# PDF-Utility-CLI
+# PDF-Utility-CLI v0.0.2
 
 A PDF utility tool that uses Ghostscript to manipulate PDFs. 
 
